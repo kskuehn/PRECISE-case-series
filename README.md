@@ -11,7 +11,7 @@ Pre/Post: pre.post.csv
 Acceptability/Usability: Acceptability_Feasability_Usability - Sheet1.csv
 
 ## Analysis Scripts
-Trajectory of EMA: repo_scripts.R and AIm 1_Analysis.R
+Individual participant EMA data: repo_scripts.R and AIm 1_Analysis.R
 
 Pre/Post Outcomes: Pre.post.R 
 
