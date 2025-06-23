@@ -1,5 +1,5 @@
 # PRECISE-case-series
-Group and EMA data for PRECISE case series paper
+Group and individual participant data for PRECISE case series paper
 
 # Files included in the repository
 
